@@ -22,5 +22,12 @@ get '/set' do
       erb :set
 end
 
+
+get '/get' do
+  @query = session[:query_string]
+  erb :get
+end
+
+
 run! if app_file == $0
 end

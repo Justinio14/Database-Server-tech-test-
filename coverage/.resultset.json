@@ -26,6 +26,12 @@
         2,
         null,
         null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null,
         1,
         null
       ],
@@ -37,7 +43,9 @@
         null,
         null,
         1,
-        1,
+        0,
+        0,
+        null,
         null,
         null,
         null
@@ -69,6 +77,11 @@
         1,
         null,
         null,
+        1,
+        1,
+        1,
+        null,
+        null,
         null
       ],
       "/Users/macbookpro/Makers/wk10/DatabaseServer/spec/model/set_spec.rb": [
@@ -76,15 +89,15 @@
         null,
         1,
         null,
-        1,
-        1,
-        1,
-        0,
+        null,
+        null,
+        null,
+        null,
         null,
         null,
         null
       ]
     },
-    "timestamp": 1488817228
+    "timestamp": 1488818933
   }
 }

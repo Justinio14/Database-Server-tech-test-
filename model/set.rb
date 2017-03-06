@@ -5,7 +5,9 @@ class Set
   end
 
   def pairs(query)
-    @browser_query.push(query)
+    @query = query.to_a
+    puts @query
+    # @browser_query.push(@query[0] => @query[1])
   end
 
 end
