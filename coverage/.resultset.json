@@ -1,25 +1,44 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/macbookpro/Makers/wk10/DatabaseServer/lib/app.rb": [
+      "/Users/macbookpro/Makers/wk10/DatabaseServer/app.rb": [
         1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        null,
+        1,
+        null,
         1,
         1,
         null,
         null,
         null,
         1,
+        2,
+        2,
+        2,
+        null,
+        null,
+        null,
+        2,
+        null,
         null,
         1,
+        null
+      ],
+      "/Users/macbookpro/Makers/wk10/DatabaseServer/model/set.rb": [
         1,
         null,
         1,
         0,
         null,
         null,
-        null,
-        null,
         1,
+        1,
+        null,
         null,
         null
       ],
@@ -31,11 +50,41 @@
         1,
         1,
         1,
+        null,
+        null,
+        null
+      ],
+      "/Users/macbookpro/Makers/wk10/DatabaseServer/spec/feature/set_spec.rb": [
         1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/Users/macbookpro/Makers/wk10/DatabaseServer/spec/model/set_spec.rb": [
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        1,
+        0,
+        null,
         null,
         null
       ]
     },
-    "timestamp": 1488800310
+    "timestamp": 1488817228
   }
 }

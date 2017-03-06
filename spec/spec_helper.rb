@@ -10,13 +10,14 @@ Coveralls.wear!
 
 ENV['RACK_ENV'] = 'test'
 
-require File.join(File.dirname(__FILE__), '..', './lib/app.rb')
+require File.join(File.dirname(__FILE__), '..', './app.rb')
 
 require 'capybara'
 require 'capybara/rspec'
 require 'rspec'
 require 'factory_girl'
 require 'database_cleaner'
+require './model/set'
 
 
 Capybara.app = DatabaseServer
