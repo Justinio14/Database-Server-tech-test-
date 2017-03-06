@@ -1,0 +1,31 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/macbookpro/Makers/wk10/DatabaseServer/lib/app.rb": [
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        null,
+        1,
+        null,
+        1,
+        0,
+        null,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null
+      ],
+      "/Users/macbookpro/Makers/wk10/DatabaseServer/spec/feature/server_spec.rb": [
+        1
+      ]
+    },
+    "timestamp": 1488798003
+  }
+}

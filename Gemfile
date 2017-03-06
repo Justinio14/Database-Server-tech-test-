@@ -19,5 +19,5 @@ group :test do
   gem 'capybara' # integration testing tool for rack based web applications. It simulates how a user would interact with a website
   gem 'database_cleaner' # set of strategies for cleaning your database in Ruby
   gem 'factory_girl' #  provides a framework and DSL for defining and using factories
-  # SimpleCov is a code coverage analysis tool for Ruby works with cucumber , coverlls etc
+  gem 'simplecov' # SimpleCov is a code coverage analysis tool for Ruby works with cucumber , coverlls etc
 end
