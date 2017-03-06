@@ -6,10 +6,11 @@
         1,
         1,
         null,
-        1,
+        null,
         null,
         1,
         null,
+        1,
         1,
         null,
         1,
@@ -23,9 +24,18 @@
         null
       ],
       "/Users/macbookpro/Makers/wk10/DatabaseServer/spec/feature/server_spec.rb": [
-        1
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null
       ]
     },
-    "timestamp": 1488798003
+    "timestamp": 1488800310
   }
 }

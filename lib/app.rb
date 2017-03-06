@@ -2,13 +2,14 @@ require 'sinatra'
 require 'sinatra/base'
 require 'sinatra/flash'
 
-set :port, 4000
+
 
 class DatabaseServer < Sinatra::Base
 
+set :port, 3000
 use Rack::MethodOverride
 
-get '/' do
+get '/set' do
   'hello!'
 end
 
